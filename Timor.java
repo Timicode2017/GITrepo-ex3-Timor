@@ -4,7 +4,7 @@ public class Timor{
      {
          for (int i = 0; i < 10; i++)
          {
-        System.out.println("my name is BITCOIN");
+        System.out.println("my name is Timor");
          }
      }
 }
